@@ -1,6 +1,6 @@
 package runners;
 
-import org.junit.runner.RunWith;  // <-- isso que está faltando
+import org.junit.runner.RunWith; 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
